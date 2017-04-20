@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\visual studio 2015 projects\noiseterraingeneration\noiseterraingeneration\main.cpp(76): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio 2015 projects\noiseterraingeneration\noiseterraingeneration\main.cpp(77): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio 2015 projects\noiseterraingeneration\noiseterraingeneration\main.cpp(78): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio 2015 projects\noiseterraingeneration\noiseterraingeneration\main.cpp(79): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio 2015 projects\noiseterraingeneration\noiseterraingeneration\main.cpp(82): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio 2015 projects\noiseterraingeneration\noiseterraingeneration\main.cpp(83): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio 2015 projects\noiseterraingeneration\noiseterraingeneration\main.cpp(84): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio 2015 projects\noiseterraingeneration\noiseterraingeneration\main.cpp(85): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  NoiseTerrainGeneration.vcxproj -> D:\visual studio 2015 Projects\NoiseTerrainGeneration\Debug\NoiseTerrainGeneration.exe
+  NoiseTerrainGeneration.vcxproj -> D:\visual studio 2015 Projects\NoiseTerrainGeneration\Debug\NoiseTerrainGeneration.pdb (Full PDB)
